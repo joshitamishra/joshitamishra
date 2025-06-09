@@ -1,15 +1,31 @@
 # joshitamishra
 
-#Hello there 👋
+# Hi, I'm Joshita Mishra 👋
 
-I am a software developer who loves debugging software engineering problems and moving tougher problems to a conclusive solution. 
+I'm a passionate **Software Developer** who loves debugging tough engineering problems and driving them to conclusive solutions.
 
-I  worked in core enginnering teams of GEDigital,Jp Morgan help building software and solutions handling terrabytes of data, working at a scale in highly concurrent systems.
-Leveraged distributed capabilities of Apache Spark with Scala apps to move/transform billions of records across various datastores eg: Apache Cassandra
+---
 
-I have a decade experience in designing, building and developing big data software solutions.
-To the core of my work, I find ways to automate repeated/patterned problems, build small tools around them which helps reduce software developement cycle and do test driven development
+## 👩‍💻 About Me
 
-Commits + tags are signed with my SSH key fingerprint: PlxNuNW8YPFc6kCNZub3rZTqKceiUMbLPvV8hM8CH7A
+- Worked in core engineering teams at **GE Digital** and **JPMorgan**, building scalable software solutions handling terabytes of data.
+- Expert in leveraging distributed computing with **Apache Spark** and **Scala** to process billions of records across systems like **Apache Cassandra**.
+- 10+ years of experience designing and developing Big Data software at scale.
+- Focused on automating repetitive tasks and building developer tools that accelerate the software development lifecycle.
+- Strong believer and practitioner of **Test-Driven Development (TDD)** to deliver robust, reliable code.
 
+---
+
+## 🚀 Tech & Tools
+
+I use a wide range of technologies and tools, but here are a few key ones I work with regularly:
+
+- Languages: **Scala**, **Java**, **Python**
+- Big Data: **Apache Spark**, **Apache Cassandra**, **Kafka**
+- Development: **TDD**, Automation, Developer Tools
+- Cloud & Others: AWS, Distributed Systems, Concurrent Programming
+
+---
+
+Feel free to explore my pinned projects to see these skills in action!
 
